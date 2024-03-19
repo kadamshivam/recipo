@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipo/static/css/main.80c3b533.css",
+    "main.js": "/recipo/static/js/main.7ab4ed31.js",
+    "index.html": "/recipo/index.html",
+    "main.80c3b533.css.map": "/recipo/static/css/main.80c3b533.css.map",
+    "main.7ab4ed31.js.map": "/recipo/static/js/main.7ab4ed31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c3b533.css",
+    "static/js/main.7ab4ed31.js"
+  ]
+}
